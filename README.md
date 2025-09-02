@@ -16,14 +16,14 @@
     <a href="#">Artikel</a>
     <a href="#">Video</a>
     <a href="#">Tentang Kami</a>
-    <a href="#">Kontak</a> "#">@andriirawan545</a>
+    <a href="#">Kontak</a>
   </nav>
   <h1>Selamat Datang di Website Olahraga & Kesehatan</h1>
   <p>Temukan tips sehat, inspirasi olahraga, dan pola hidup aktif di sini!</p>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Olahraga: Rahasia Meningkatkan Semangat Sehari-hari</title>
+  <title>Rahasia Meningkatkan Semangat Sehari-hari</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../style.css" />
   <style>
