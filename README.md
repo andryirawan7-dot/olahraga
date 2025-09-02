@@ -1,4 +1,4 @@
-# Olahraga
+
 <head>
   <meta charset="UTF-8">
   <title>Olahraga & Kesehatan</title>
@@ -23,7 +23,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Rahasia Meningkatkan Semangat Sehari-hari</title>
+  <title> Rahasia Meningkatkan Semangat Sehari-hari</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../style.css" />
   <style>
