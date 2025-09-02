@@ -21,11 +21,6 @@
   </nav>
   <h1>Selamat Datang di Website Olahraga & Kesehatan</h1>
   <p>Temukan tips sehat, inspirasi olahraga, dan pola hidup aktif di sini!</p>
-  
-  <footer>
-    &copy; 2025 Olahraga & Kesehatan. Dibuat oleh 
-    <a class="github-link" href="https://github.com/andryirawan7-dot" target="_blank">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" /> @andriirawan545
     </a>
   </footer>
 </body>
@@ -98,6 +93,10 @@
 
     <div class="footer-artikel">
       Ingin membaca artikel menarik lainnya? Kunjungi <a href="../index.html">Beranda Olahraga & Kesehatan</a>.<br>
+       <footer>
+    &copy; 2025 Olahraga & Kesehatan. Dibuat oleh 
+    <a class="github-link" href="https://github.com/andryirawan7-dot" target="_blank">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" /> @andriirawan545
       <br>
       Temui penulis di Instagram: <a href="https://instagram.com/andriirawan545" target="_blank">@andriirawan545</a>
     </div>
