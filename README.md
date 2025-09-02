@@ -20,8 +20,6 @@
   </nav>
   <h1>Selamat Datang di Website Olahraga & Kesehatan</h1>
   <p>Temukan tips sehat, inspirasi olahraga, dan pola hidup aktif di sini!</p>
-</body>
-
 <html lang="id">
 <head>
   <meta charset="UTF-8">
