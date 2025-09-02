@@ -24,8 +24,7 @@
     </a>
   </footer>
 </body>
-</html>
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -99,7 +98,3 @@
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" /> @andriirawan545
       <br>
       Temui penulis di Instagram: <a href="https://instagram.com/andriirawan545" target="_blank">@andriirawan545</a>
-    </div>
-  </div>
-</body>
-</html>
