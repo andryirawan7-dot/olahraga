@@ -15,10 +15,6 @@
     <a href="#">Beranda</a>
     <a href="#">Artikel</a>
     <h1>Daftar Artikel</h1>
-<ul>
-  <li><a href="artikel/olahraga-meningkatkan-semangat.html">Olahraga: Rahasia Meningkatkan Semangat Sehari-hari</a></li>
-  <!-- Tambah artikel lain -->
-</ul>
     <a href="#">Video</a>
     <a href="#">Tentang Kami</a>
     <a href="#">Kontak</a>
@@ -89,7 +85,10 @@
     <p>
       Olahraga bukan sekadar aktivitas fisik, tapi juga investasi untuk kesehatan mental dan semangat hidup Anda. Mulailah hari dengan bergerak, rasakan sendiri perbedaannya!
     </p>
-
+<ul>
+  <li><a href="artikel/olahraga-meningkatkan-semangat.html">Olahraga: Rahasia Meningkatkan Semangat Sehari-hari</a></li>
+  <!-- Tambah artikel lain -->
+</ul>
     <div class="footer-artikel">
       Ingin membaca artikel menarik lainnya? Kunjungi <a href="../index.html">Beranda Olahraga & Kesehatan</a>.<br>
        <footer>
