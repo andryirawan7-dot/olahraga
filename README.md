@@ -14,6 +14,11 @@
   <nav>
     <a href="#">Beranda</a>
     <a href="#">Artikel</a>
+    <h1>Daftar Artikel</h1>
+<ul>
+  <li><a href="artikel/olahraga-meningkatkan-semangat.html">Olahraga: Rahasia Meningkatkan Semangat Sehari-hari</a></li>
+  <!-- Tambah artikel lain -->
+</ul>
     <a href="#">Video</a>
     <a href="#">Tentang Kami</a>
     <a href="#">Kontak</a>
